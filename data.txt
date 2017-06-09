@@ -1,0 +1,22 @@
+[
+{
+"Name" : "Somanath Zadbuke",
+"RollNo" : 101,
+"Percentage" : "80%"
+},
+{
+"Name" : "Sachin Shinde",
+"RollNo" : 201,
+"Percentage" : "70%"
+},
+{
+"Name" : "Anil More",
+"RollNo" : 191,
+"Percentage" : "75%"
+},
+{
+"Name" : "Sanjay Kale",
+"RollNo" : 111,
+"Percentage" : "77%"
+}
+]
